@@ -2,6 +2,8 @@
 
 ## Description
 
+[Discord](https://discord.gg/ujCG6MTTDb)
+
 This **standalone** script for **FiveM** allows players to have full control over their helmet when riding a motorcycle. By default, FiveM automatically applies a helmet to players as soon as they mount a motorcycle. This script **disables the automatic helmet application**, giving the player the option to choose whether or not to wear a helmet.
 
 The script works for both the **driver** and the **passenger** of the motorcycle. Once a player enters the bike, the helmet will be removed, and they can freely decide if they want to wear one. If the player dismounts, the helmet settings are reset.
